@@ -164,7 +164,7 @@ main h2 {
 
 aside {
     background-color: var(--cor1);
-    padding: 10px;
+    padding: 15px;
     border-radius: 10px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.432);
 }
@@ -173,7 +173,7 @@ aside > h3 {
     background-color: var(--cor4);
     color: white;
     padding: 10px;
-    margin: -10px -10px 0px -10px;
+    margin: -15px -15px 0px -15px;
     border-radius: 10px 10px 0px 0px;
 }
 
